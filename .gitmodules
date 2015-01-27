@@ -1,0 +1,3 @@
+[submodule "testng"]
+	path = testng
+	url = https://github.com/iplviv/testng_repo.git
